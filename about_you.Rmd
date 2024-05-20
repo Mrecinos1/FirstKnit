@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Michael Recinos"
 output: 
   html_document:
     number_sections: true
@@ -17,10 +17,8 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
 
-     
-
+I had attended High school at Lancaster High School. yes I graduated from there and I was part of the class of 22. Math and English both have there ups and down and there hard from easy and for my self I been finding English easier for me. I find discovering new word fun and helps me gain more knowledge.
 
 ## Your computer and your and its capability?  
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
